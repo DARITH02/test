@@ -1,0 +1,4 @@
+{
+  "description": "",
+  "build":" tailwindcss -i ./src/input.css -o ./public/main.css --watch"
+}
